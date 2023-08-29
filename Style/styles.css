@@ -13,6 +13,7 @@
     font-family: 'Open Sans', sans-serif;
     font-weight: 700;
     font-size: 50px;
+    color: #000000;
     text-shadow: 2px 2px 2px #272727;
     text-align: left;
     margin-bottom: 0px;
@@ -21,6 +22,7 @@
     font-family: 'Lato', sans-serif;
     font-family: 'Open Sans', sans-serif;
     font-weight: 300;
+    color: #7c7677;
     text-align: justify;
     padding-top: 0px;
   }
@@ -33,11 +35,11 @@
     background-color: #e84b67;
     font-family: 'Lato', sans-serif;
     font-family: 'Open Sans', sans-serif;
-    font-weight: 700;
+    font-weight: 400;
     font-size: 20px;
     color: white;
-    width: 177px;
-    height: 64px;
+    width: 157px;
+    height: 54px;
     cursor: pointer;
   }
 .footer-content{
@@ -73,4 +75,17 @@
 .footer-content .f-content .text-3{
     color: #707070;
 
+}
+.sec-1{
+    display: block;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.sec-1 .section-1{
+    text-align: center;
+}
+.sec-2 .section-2{
+    display: inline-block;
+    align-items: center;
+    padding-left: 160px;
 }
