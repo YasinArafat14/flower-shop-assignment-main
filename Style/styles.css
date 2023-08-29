@@ -6,7 +6,7 @@
 .header .header-content{
     margin-top: 15px;
     justify-content: center;
-    margin-left: 150px;
+    margin-left: 140px;
 }
 .header .header-content .main-text{
     font-family: 'Lato', sans-serif;
@@ -40,4 +40,37 @@
     height: 64px;
     cursor: pointer;
   }
-  
+.footer-content{
+    background-color: #111010;
+    width: auto;
+    height: 349px;
+    align-items: center;
+}
+.footer-content .f-content{
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 15px;
+    color:white ;
+    text-align: center;
+    padding-top: 60px;
+}
+.footer-content .f-content .footer-head{
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 48px;
+    padding-bottom: 0px;
+}
+.footer-content .f-content .flower{
+    color: #e55473;
+}
+.footer-content .f-content .text-2{
+    text-align: center;
+    color: #ffffff;
+
+}
+.footer-content .f-content .text-3{
+    color: #707070;
+
+}
